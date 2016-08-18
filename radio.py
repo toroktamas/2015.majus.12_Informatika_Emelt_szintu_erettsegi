@@ -13,7 +13,7 @@ azonosito{
  }
 }
 """
-def szame(szo,karaktersorozat):
+def szame(szo):
     valasz = True
     for a in range(1,len(szo)):
         if szo[a]<"0" or szo[a]>'9':
@@ -71,51 +71,37 @@ statisztika={
     11:0
 }
 for a in adas.values():
-    if a["nap"] == 1:
-        statisztika[1]+=1
-    elif a['nap'] == 2:
-        statisztika[2]+=1
-    elif a['nap'] == 3:
-        statisztika[3]+=1
-    elif a['nap'] == 4:
-        statisztika[4]+=1
-    elif a['nap'] == 5:
-        statisztika[5]+=1
-    elif a['nap'] == 6:
-        statisztika[6]+=1
-    elif a['nap'] == 7:
-        statisztika[7]+=1
-    elif a['nap'] == 8:
-        statisztika[8]+=1
-    elif a['nap'] == 9:
-        statisztika[9]+=1
-    elif a['nap'] == 10:
-        statisztika[10]+=1
-    elif a['nap'] == 11:
-        statisztika[11]+=1
-    
+    statisztika[a["nap"]] += 1
+
 for k, v in sorted(statisztika.items()):
     print("{0}. nap: {1} radioamator".format(k,v))
 
 print("5. feladat")
 """Uzenet ossze rostalas."""
-napok = []
-n = 0
-uj = []
-for a in sorted(adas.values(), key=lambda a:a["azonosito"]):
-    n+=1
-    if a['nap'] == 1 and n == 1:
-        for d in a["uzenet szovege"]:
-            napok.append(d)
-        
-for di in a['uzenet szovege']:
-    for f in napok:
-        if di == f:
-            pass
-        if di!= f and f != "#":
-            uj.append(f)
-            
-#print(napok)
+
+uzenetek = {}
+for nap in range(1,12):
+    uzenet = ''  # ebben taroljuk majd az uzenete ahogy azt alakitjuk
+    for v in adas.values():
+        if v['nap'] == nap:
+            if uzenet == '':
+                uzenet = list(v['uzenet szovege'])
+            else:
+                # itt most vegig kell menni az uzeneten karakterenkent es megnezni, hogy
+                # a mar az 'uzenet'-ben levo uzenet adott karakteren # van-e, mert ha igen, de az uj
+                # uzenetben nem # es nem $ van, akkor azt a karaktert fogjuk beirni az 'uzenet'
+                # adott helyere
+                for k, b in enumerate(v['uzenet szovege']):
+                    if uzenet[k] == '#' and b != '#' and b != '$':
+                        uzenet[k] = b
+    
+    # most eltaroljuk a mar osszeallitott uzenet az uzenetek szotarban
+    uzenetek[nap] = ''.join(uzenet)
+
+with open("adaas.txt", "wt", encoding="utf-8") as f:
+    for k in sorted(uzenetek):
+        f.write(uzenetek[k]+'\n')
+
 #print(" ".join(uj))
 #print("6. feladat")
 """fugveny keszites fent megoldottam """
@@ -124,4 +110,29 @@ print("7. feladat")
 nap_bekeres = int(input("Adja meg a nap sorszamat! "))
 radioamator_bekeres = int(input("Adja meg a radioamator sorszamat! "))
 
+# eloszor dontsuk el hogy az adott radioamator dolgozott-e aznap, mert kulonben azt kell kiirni,
+# hogy "Nincs ilyen megfigyeles"
+dolgozott = False
+for v in adas.values():
+    if v['nap'] == nap_bekeres and int(v['radioamator sorszama']) == radioamator_bekeres:
+        dolgozott = True
 
+if not dolgozott:
+    print("Nincs ilyen megfigyeles")
+else:  # ha dolgozott az adott radioamator, akkor vegyuk ki a megfigyelesek szamat a helyreallitott szovegbol
+    megfigyelesek = uzenetek[nap_bekeres].split(' ')[0].split('/')
+    megfigyelheto = False  # volt-e megfigyeles aznap
+    megfigyelt = 0  # egyedek szama
+    if 0 in megfigyelesek and szame(megfigyelesek[0]):
+        megfigyelheto = True
+        megfigyelt += int(megfigyelesek[0])
+    if 0 in megfigyelesek and szame(megfigyelesek[1]):
+        megfigyelheto = True
+        megfigyelt += int(megfigyelesek[1])
+
+    if not megfigyelheto:
+        print("Nincs informacio")
+    else:
+        print("A megfigyelt egyedek szama: {0}".format(megfigyelt))
+    
+        

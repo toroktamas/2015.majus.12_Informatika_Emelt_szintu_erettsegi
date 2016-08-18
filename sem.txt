@@ -1,0 +1,153 @@
+1:{'megfigyelt': 'abor', 'radioamator sorszama': '13', 'azonosito': 1013, 'nap': 1, 'uzenet szovege': '#abor# #e#tun###agy#szel#2# #o##h#d#g ##rkasn#o#oka# #a#tunk e####a#akn##$#$#$##$$$$$$####'}
+2:{'megfigyelt': 'tatertunk', 'radioamator sorszama': '19', 'azonosito': 1019, 'nap': 1, 'uzenet szovege': 'ta###t##ertunk ##gy #zel#####ok hide##f#r##sn#omo#at ##ttu## e#y patak#al$#$$$$$###$$$$$$$'}
+3:{'megfigyelt': '0/', 'radioamator sorszama': '19', 'azonosito': 6019, 'nap': 6, 'uzenet szovege': '0/# a #a#akon##uli ##mb## ##l#kok jatszo#####del ####l$$$#$$$$$#$#$#$#$$###$##$$##$$$$#$$$'}
+4:{'megfigyelt': 'a', 'radioamator sorszama': '17', 'azonosito': 5017, 'nap': 5, 'uzenet szovege': 'a pat#k#a###ar##sok #em#j#l#nt##ztek nyomok volt#k$$$$#$$$#$$$#$#$##$$$$###$####$$#$$$$#$#'}
+5:{'megfigyelt': 'ezakrol', 'radioamator sorszama': '16', 'azonosito': 10016, 'nap': 10, 'uzenet szovege': 'e#zakrol gy#ko#i farkasuvol#es#ha#lat###k#$$$$$$#$$$$$$#$##$#$#$$$##$#$##$##$$$$$$##$#$##$'}
+6:{'megfigyelt': '1/3sottes', 'radioamator sorszama': '5', 'azonosito': 7005, 'nap': 7, 'uzenet szovege': '1/3#sot#te##s ##ott##u#tek#fe# a# er#o#szelen$$##$$#$$#$$$#$$$####$$##$$#$$#$###$$$$$$$$#$'}
+7:{'megfigyelt': '0/', 'radioamator sorszama': '15', 'azonosito': 6015, 'nap': 6, 'uzenet szovege': '0/# a pata#on tu#i#d#mbo# #olyko# jats##tt###### koru###$$$$$##$$#$$$$#$$#$###$$$#$$$####$'}
+8:{'megfigyelt': '3/0stedselotegy', 'radioamator sorszama': '3', 'azonosito': 11003, 'nap': 11, 'uzenet szovege': '#3/0#s#te##d#s#elot##egy ege## fal####al#dt ve### a ##tak#ment#####$#$$$$##$$$$###$$$###$#'}
+9:{'megfigyelt': 'verofeyes', 'radioamator sorszama': '12', 'azonosito': 8012, 'nap': 8, 'uzenet szovege': 'verofe#yes n##fe#y#enyhu## i#o$$##$$##$$$#$#$$$$$$$$$##$##$##$$$#$$$$$#$#$#$$$$$###$$$$#$#'}
+10:{'megfigyelt': 'taotvtuk', 'radioamator sorszama': '9', 'azonosito': 1009, 'nap': 1, 'uzenet szovege': 'ta#o#t#v##tu#k nag# #zel#20 fok#hi##g fa#k#snyo#okat la#tun##e#y#pat##na#$$###$$#$#$$$$$$$'}
+11:{'megfigyelt': 'eszakro', 'radioamator sorszama': '10', 'azonosito': 10010, 'nap': 10, 'uzenet szovege': 'eszakro# #y#ko## #arkasu#olte# #allat#z##$###$$$$$$$$$$#$$##$$#$##$$$$#$$$$$#$$$#######$#$'}
+12:{'megfigyelt': '/3soedelot', 'radioamator sorszama': '11', 'azonosito': 7011, 'nap': 7, 'uzenet szovege': '#/3#so###ed###elo#t tun##k fe# #z##rd# sz#len$$$$$$$$$$$##$$#$$$$$$$$$#$$$#$$$#$#$$$$#$$#$'}
+13:{'megfigyelt': 'hoviha', 'radioamator sorszama': '16', 'azonosito': 4016, 'nap': 4, 'uzenet szovege': 'hoviha# ##at# n#m#v#l# me#fi#ye#es r#n#beraktu# # fel#zere#est$$$$#$$$$$$$$$$$$$$$#$#$$$$$'}
+14:{'megfigyelt': 'erofenyes', 'radioamator sorszama': '7', 'azonosito': 8007, 'nap': 8, 'uzenet szovege': '#erofenyes napfeny e##hulo ##o$$#$$$#$#$$#$##$$$#$#$#$$$$$#$#$$$$#$$$$$$$$#$#$$##$#$#$#$$#'}
+15:{'megfigyelt': '/', 'radioamator sorszama': '14', 'azonosito': 2014, 'nap': 2, 'uzenet szovege': '#/# egy#dom##ol #igye#t#k ###s# ho ak##a#yoz$$#$$$$#$$$##$#$#$$$#####$##$$$$$$$#$##$#$$#$$'}
+16:{'megfigyelt': '/0cak', 'radioamator sorszama': '12', 'azonosito': 9012, 'nap': 9, 'uzenet szovege': '#/0#c#ak a#noste#y #el#nt me# del k#r#l$$#$#$$$$$$$$##$#$###$###$#$#$$$$#$#$$$$$$$#$#$$$$#'}
+17:{'megfigyelt': '2', 'radioamator sorszama': '8', 'azonosito': 3008, 'nap': 3, 'uzenet szovege': '2## ##ssz #z##ir#n# miatt #s## r##i# ##ei#$$#$$$###$$$$$$$$$$$$$##$$$$$$#$#$$$$$$$##$$$$$$'}
+18:{'megfigyelt': 'a', 'radioamator sorszama': '16', 'azonosito': 5016, 'nap': 5, 'uzenet szovege': 'a ##t#kn#l#f#rkaso# #em je#e###e#tek#nyomok ##ltak$$$$##$$##$$#$$$$#$$#$$#$$$#$$$$$$#$#$##'}
+19:{'megfigyelt': '0/3', 'radioamator sorszama': '7', 'azonosito': 6007, 'nap': 6, 'uzenet szovege': '0/3 # ##t#kon tu#i#do#b#n ko#yk####a#s##ttak###l k##ul$$$$#$#$$$####$$$$#$$$$$$#$$#$$$$$#$'}
+20:{'megfigyelt': 'saklgako', 'radioamator sorszama': '8', 'azonosito': 10008, 'nap': 10, 'uzenet szovege': '#s#ak##l#g#ako## fa##asu#o#te# ##llatsz#k$$$##$#$#$$$#$$#$#$$$$$$$##$$$$$$#$$$#$##$$$$$#$#'}
+21:{'megfigyelt': '03', 'radioamator sorszama': '8', 'azonosito': 6008, 'nap': 6, 'uzenet szovege': '0#3 a pat#k###tu#i #ombo##k#lykok j#tszotta##d## korul$##$$##$#$#$#$#$#$$$$$$$$#$#$$$$#$$#'}
+22:{'megfigyelt': '0/', 'radioamator sorszama': '4', 'azonosito': 6004, 'nap': 6, 'uzenet szovege': '0/# a patakon tuli d#mb###koly#ok ja#s#ot##k#del #orul$$$$$$$$$$#$#$$#$#$##$#$$$$$$$$#$$$#'}
+23:{'megfigyelt': 'eszaro', 'radioamator sorszama': '1', 'azonosito': 10001, 'nap': 10, 'uzenet szovege': 'esza#ro# g#akori f#rk##uvolt#s hallats#ik$#$##$$$#$$$$$#$$#$$##$$#$$$#$$#$##$#$$$#$$#$#$#$'}
+24:{'megfigyelt': '/3stedes', 'radioamator sorszama': '7', 'azonosito': 7007, 'nap': 7, 'uzenet szovege': '#/3#s#t##edes e#ott #u#tek#### ## e#d# #z##e#$#$#$#$$$#$$$####$##$$#$$$$#$#$####$$$$##$#$#'}
+25:{'megfigyelt': '0/apaako', 'radioamator sorszama': '3', 'azonosito': 6003, 'nap': 6, 'uzenet szovege': '0/##a#pa#ako# ###i ###b## kol#kok##at##o#tak de# ##ru##$$$$#$$$$$$$$$$$$$$$#$#$$#$#$$##$$$'}
+26:{'megfigyelt': '/sk', 'radioamator sorszama': '7', 'azonosito': 9007, 'nap': 9, 'uzenet szovege': '#/###s#k a n#st### jelent #eg###l korul$$$$$$$#$$$$#$$$$$$##$$$$#$###$$$#$$$$$$#$$#$$#$###'}
+27:{'megfigyelt': '1', 'radioamator sorszama': '9', 'azonosito': 2009, 'nap': 2, 'uzenet szovege': '1## egy #o##rol#figyelt#k #ris###o #k##a#y###$$#$#$#$$$$###$$$$#$#$$$$$$#$$$$$#$##$$$$$$$#'}
+28:{'megfigyelt': '1/sotetedeeotttntk', 'radioamator sorszama': '16', 'azonosito': 7016, 'nap': 7, 'uzenet szovege': '1/##sotetede##e#ott#t#nt#k ##l az #rdo #ze###$##$###$$$$#$#$#$$$##$$$$$$$#$$$$$$#$#$$$###$'}
+29:{'megfigyelt': '/0', 'radioamator sorszama': '9', 'azonosito': 9009, 'nap': 9, 'uzenet szovege': '#/0 csak a#nosteny#####nt ### ##l k##ul$#$$###$$$$$#$$$$#$$$#$$#$#$$$$##$$$#$#$$$#$#$$####'}
+30:{'megfigyelt': 'zakrolgk', 'radioamator sorszama': '11', 'azonosito': 10011, 'nap': 10, 'uzenet szovege': '##zakrol#g##k### f###a#uvolt#s ##l#at#zi#$##$$$$$$$$#$$$#$$##$#$$$$$#$$$$$$#$#$$$$$#$#$##$'}
+31:{'megfigyelt': '0', 'radioamator sorszama': '19', 'azonosito': 9019, 'nap': 9, 'uzenet szovege': '##0 csak## #os#e#y#jelent me# d#l#k###l$$$$$$###$$$##$$$$$$$$$#$#$##$$###$#$$$$$$$$#####$#'}
+32:{'megfigyelt': '/0', 'radioamator sorszama': '4', 'azonosito': 2004, 'nap': 2, 'uzenet szovege': '#/0 #g##dom##ol figyel### ##i#s ho#a#adal#oz$$#$#$#$$$####$##$#$$$$$#$$##$#$#$$$$$$#$#$#$#'}
+33:{'megfigyelt': 'vren', 'radioamator sorszama': '6', 'azonosito': 8006, 'nap': 8, 'uzenet szovege': 'v#r##en### #apfeny e#yh##o id##$#$$####$#$##$#$$$$####$#$#$#$$#$$$$$$$$$$$$##$$$#$$$$$$$$#'}
+34:{'megfigyelt': '03a', 'radioamator sorszama': '13', 'azonosito': 6013, 'nap': 6, 'uzenet szovege': '0#3#a pa#akon #u## d#mbo# koly#ok#j#t##o###k del###ru###$$$$$$##$#$$####$$$##$$#$$#$##$$$#'}
+35:{'megfigyelt': '0/3a', 'radioamator sorszama': '10', 'azonosito': 6010, 'nap': 6, 'uzenet szovege': '0/3#a pa#a#on##uli#dombon#kol##o# ##tszot### #e######l$$$$$$#$$$$$##$#$#$$$#$$$#$$$$$$$$$$'}
+36:{'megfigyelt': 'a', 'radioamator sorszama': '8', 'azonosito': 5008, 'nap': 5, 'uzenet szovege': 'a pataknal fark#s## n#m #el#n#ke#t###ny#mok #o###k$#$$$$$$$$$$$$##$$###$$$###$$$$#$###$$$$'}
+37:{'megfigyelt': 'hovihar', 'radioamator sorszama': '14', 'azonosito': 4014, 'nap': 4, 'uzenet szovege': 'hovihar #iatt #em #o#t megf#gyeles ##nd##r#ktuk#a fels#ere#e#t$#$##$##$$#$###$##$##$$$$#$$'}
+38:{'megfigyelt': '13stde', 'radioamator sorszama': '6', 'azonosito': 7006, 'nap': 7, 'uzenet szovege': '1#3#s###t#de# #lott tu##e# fe# a# #rdo #zele###$$##$$$$$$$#$$$####$#$###$##$$$#$$##$$$$$$$'}
+39:{'megfigyelt': 'abort', 'radioamator sorszama': '2', 'azonosito': 1002, 'nap': 1, 'uzenet szovege': '#abort #ertu#k#nagy##ze# 20 ### hideg f###a#n##mokat ###tunk#eg# pat#k#al$$$##$$##$##$$$$$'}
+40:{'megfigyelt': 'esarol', 'radioamator sorszama': '13', 'azonosito': 10013, 'nap': 10, 'uzenet szovege': 'es#a#rol #yakor# f#rk##uvolte# #al##t##ik$$$$##$##$#$#$$##$$$$####$$$$$$$$$$$#$#$$$$$$#$$#'}
+41:{'megfigyelt': '13/0', 'radioamator sorszama': '6', 'azonosito': 11006, 'nap': 11, 'uzenet szovege': '13/0 sotete#es###o#t#eg# #ges###alk# hal##t #egi# # pata# me#t#n$$$###$$#$##$##$$#$$$#$$$#'}
+42:{'megfigyelt': '', 'radioamator sorszama': '9', 'azonosito': 5009, 'nap': 5, 'uzenet szovege': '# pata##al#f#rk#sok nem j##ent#ezt## nyomok v##tak$$#$$$$##$$$$$$$$#$##$##$##$$$##$$$$$##$'}
+43:{'megfigyelt': '2/oszzelray', 'radioamator sorszama': '12', 'azonosito': 3012, 'nap': 3, 'uzenet szovege': '2/###os#z##zel#ra#y #iatt #s#k#r##id#id##g$$#$$$$#$#$$$$$$$$###$$$$$$$$#####$$#$$#$$$##$$$'}
+44:{'megfigyelt': 'hvhar', 'radioamator sorszama': '9', 'azonosito': 4009, 'nap': 4, 'uzenet szovege': 'h#v#har m#a#t#nem ##lt meg#igye#es #endbera##uk a###lsze####st##$#$$#$$##$$$#$#$$#$#$$$#$$'}
+45:{'megfigyelt': '/', 'radioamator sorszama': '19', 'azonosito': 2019, 'nap': 2, 'uzenet szovege': '#/# eg# dom#rol#figy#lt#k friss#h##a##d###oz###$#$$#$#$$$$$$$#$$$$$$#$$$#$$#$$$##$#$$#$#$#'}
+46:{'megfigyelt': 'esaklai', 'radioamator sorszama': '14', 'azonosito': 10014, 'nap': 10, 'uzenet szovege': 'es#ak##l###a###i fa####uv#lte# #alla#szik$$$$$$$$##$$###$#$$$$#$###$$#$$#$$$#$$#$$$$#$$$$$'}
+47:{'megfigyelt': 'verofens', 'radioamator sorszama': '8', 'azonosito': 8008, 'nap': 8, 'uzenet szovege': 'verofen##s napfe## en#h##o#ido#$$$##$$$$$$$$$#$#$$$#$#$$$#$$#$$##$#$$#$##$$$$$$$$$####$$#$'}
+48:{'megfigyelt': '130', 'radioamator sorszama': '7', 'azonosito': 11007, 'nap': 11, 'uzenet szovege': '13#0 #ote###es elot# eg# e#e#z fa#ka##al#dt vegi# a #at###me##en$$$$#$$$$#$$$$$#$$#$$$#$$#'}
+49:{'megfigyelt': '', 'radioamator sorszama': '2', 'azonosito': 5002, 'nap': 5, 'uzenet szovege': '# #ata##al#fark#sok#nem ##lentkeztek#n#o#ok vo#tak$$$$$$#$##$$##$$$#$$##$$$$####$$$#$$###$'}
+50:{'megfigyelt': '2/3', 'radioamator sorszama': '3', 'azonosito': 3003, 'nap': 3, 'uzenet szovege': '2/3 ro#s# sz####a#y miatt ##ak##ovi# id#i###$##$#$####$$##$$#$#$$$####$$$$$#$#$#$$$$$#$$$#'}
+51:{'megfigyelt': 'vfenyes', 'radioamator sorszama': '10', 'azonosito': 8010, 'nap': 8, 'uzenet szovege': 'v###fenyes #ap##ny ###h#lo##do$$#$#$##$$$$$$####$###$##$####$$##$$$$$$$$##$$#$#$$$$$$#$$$$'}
+52:{'megfigyelt': '1', 'radioamator sorszama': '15', 'azonosito': 7015, 'nap': 7, 'uzenet szovege': '1## so##ted#s elo#t tunt###f#l#az##rdo sze####$$###$$#$$#$$#$$$$$###$#$$$$$$#$$$#$$$$##$#$'}
+53:{'megfigyelt': '2/', 'radioamator sorszama': '14', 'azonosito': 3014, 'nap': 3, 'uzenet szovege': '2/# ##ssz szelira#####at# #### r#vi##i###g##$$#$$$#$#$$$$$$##$#$$#$$$$#$$##$$$$###$##$$$$$'}
+54:{'megfigyelt': 'eszkro', 'radioamator sorszama': '12', 'azonosito': 10012, 'nap': 10, 'uzenet szovege': 'esz#kro# g#a#ori#fark#suvol#es #al#a##zik$$$##$$$$#$$$##$$##$$##$$$#$#$$$$$$#####$$$$$$##$'}
+55:{'megfigyelt': '1', 'radioamator sorszama': '13', 'azonosito': 9013, 'nap': 9, 'uzenet szovege': '1## c#ak#a#n##te#y ##l##t ##g #e# k#ru#$$$#$#$$$$$###$$$$$$#$$#$#$$#$$$$$$$$$$$$#$$#$##$#$'}
+56:{'megfigyelt': '2/', 'radioamator sorszama': '15', 'azonosito': 3015, 'nap': 3, 'uzenet szovege': '2/# #o#sz s#el#ra#y#m#at# csak rovid #deig#$$$$$#$$$$$$$#$$$#######$#$$$$#$$$#$#$$#$$$$##$'}
+57:{'megfigyelt': '1/', 'radioamator sorszama': '10', 'azonosito': 9010, 'nap': 9, 'uzenet szovege': '1/# ##ak a#nosteny #e#e#t#m#g###l kor###$$#$$$##$$##$$#$###$$$#$$$##$$$#$#$#$$$$#$$###$$$#'}
+58:{'megfigyelt': '1/3', 'radioamator sorszama': '2', 'azonosito': 7002, 'nap': 7, 'uzenet szovege': '1/3 s#tete#es ####t t#nt#k f## a# #r#o s##le#$$$#$$$$$$$$$####$$###$$$#$##$$####$$####$$$#'}
+59:{'megfigyelt': 'eakrogakoi', 'radioamator sorszama': '6', 'azonosito': 10006, 'nap': 10, 'uzenet szovege': 'e##akro##g#ako#i f####s##ol#es hallats###$$#$$$#$$#$$$##$#$$$$$$$$#$$##$$$$$$$$$#$##$$$$$#'}
+60:{'megfigyelt': '1/3steedselt', 'radioamator sorszama': '9', 'azonosito': 7009, 'nap': 7, 'uzenet szovege': '1/3#s#te#ed#s#el##t t#ntek #el #z ##do###elen$$$$$$$$#$$#$$#$$$$##$$###$$$##$$$##$$###$$##'}
+61:{'megfigyelt': '1/', 'radioamator sorszama': '5', 'azonosito': 9005, 'nap': 9, 'uzenet szovege': '1/# #sak # noste#y jele#t#m## d###kor###$$#$$$$$$#$$$$#$######$$#$$###$###$#$##$#$#$$$$$#$'}
+62:{'megfigyelt': '/0c', 'radioamator sorszama': '6', 'azonosito': 9006, 'nap': 9, 'uzenet szovege': '#/0#c### ##nos#### ###en##me# del k##u##$$$$$#$$$$##$#$$$$#$##$$$#$$$$$$$#$##$$$$$$##$##$$'}
+63:{'megfigyelt': '2/3szszeray', 'radioamator sorszama': '10', 'azonosito': 3010, 'nap': 3, 'uzenet szovege': '2/3####sz#sze##ra#y mi##t csa##ro#id#ideig#$$$$#$$$$$#$$$$#$#$$$$$#$$#$$$$##$$$#$##$$$$$#$'}
+64:{'megfigyelt': 'erene', 'radioamator sorszama': '9', 'azonosito': 8009, 'nap': 8, 'uzenet szovege': '#er##en#e# na##eny #nyhulo#i##$$$#$$$#$$#$$$$#$$##$$#$$$$###$$##$$##$$#$$$$$$##$###$$$$$#$'}
+65:{'megfigyelt': '', 'radioamator sorszama': '2', 'azonosito': 2002, 'nap': 2, 'uzenet szovege': '### egy #o#brol #igy#l#uk #r#s###o#akad#ly##$$$$$$$$$$$##$$$####$$##$$$$$#$$$$##$$#$#$#$##'}
+66:{'megfigyelt': '/', 'radioamator sorszama': '12', 'azonosito': 2012, 'nap': 2, 'uzenet szovege': '#/# e#y#do##r#l figyel####fr#ss ## ak#dal#oz$####$$$$$##$$$#$###$$$$$##$$$$#$$$##$#$###$$#'}
+67:{'megfigyelt': '', 'radioamator sorszama': '14', 'azonosito': 5014, 'nap': 5, 'uzenet szovege': '# #at#knal#f#rka#ok##e# jele##kez#ek ny#m## vo#t#k$$#$$$$#$##$$$$##$$$$$$$$$$$$$$$###$$$#$'}
+68:{'megfigyelt': '10ey', 'radioamator sorszama': '16', 'azonosito': 2016, 'nap': 2, 'uzenet szovege': '1#0#e#y #om#rol #i#y###uk f#i###ho#a##dalyoz$####$##$##$$##$##$$$$#$$$#$#$$#$$$#$$$$$##$$$'}
+69:{'megfigyelt': 'tbor', 'radioamator sorszama': '1', 'azonosito': 1001, 'nap': 1, 'uzenet szovege': 't#bor# ve##u#k###gy sz#l#2# fok#hideg #a##asnyom#k## latt##k#egy#p#tak#al$$#$$###$$$$$$$$$'}
+70:{'megfigyelt': '1/', 'radioamator sorszama': '8', 'azonosito': 2008, 'nap': 2, 'uzenet szovege': '1/# #gy do#br#l figye#t## f#### ho a#ad#l#oz#$$$#$#$#$#$##$#$$$$#$$$$#$###$$$$$$$$$##$$$$$'}
+71:{'megfigyelt': 'vih', 'radioamator sorszama': '19', 'azonosito': 4019, 'nap': 4, 'uzenet szovege': '##vih## miatt #em##o## m#gfi#####s rendb#r###uk a fel##erelest$#$$$$$$$$$$$$###$$###$##$$$'}
+72:{'megfigyelt': 'atklfarkak', 'radioamator sorszama': '11', 'azonosito': 5011, 'nap': 5, 'uzenet szovege': 'a###t#k##l#farka##k #e# #e#e#tkeztek ny##o##v#lt#k$#$$##$##$$$#$$#$$#$######$####$$$###$$$'}
+73:{'megfigyelt': '13/0', 'radioamator sorszama': '2', 'azonosito': 11002, 'nap': 11, 'uzenet szovege': '13/0 #ote#e#es e#o## ##y #g#sz#fa##a h#l#d##ve#ig#a#pa#ak men#en$$$$$$##$$$$$$$$$$$#$$#$$$'}
+74:{'megfigyelt': '/0', 'radioamator sorszama': '10', 'azonosito': 11010, 'nap': 11, 'uzenet szovege': '##/0 s#tetedes ##o#t egy e##sz#f##ka##aladt v#gi# a###tak#me#t##$$$#####$$$#$$$##$#$##$$#$'}
+75:{'megfigyelt': '', 'radioamator sorszama': '13', 'azonosito': 2013, 'nap': 2, 'uzenet szovege': '### egy#d#m#ro# fig##l#uk #r####h# a#adal##z#$#$$$$#$$$#$$#$$$#$$#$$$$##$#$#$$##$$$$$$$$#$'}
+76:{'megfigyelt': '03', 'radioamator sorszama': '6', 'azonosito': 6006, 'nap': 6, 'uzenet szovege': '0#3 a#patakon#tul##d#m#o###ol##ok###t##ottak #el #or#l$$$#$##$$$$###$$#$$$$$$####$$#$$$###'}
+77:{'megfigyelt': '2/3sszszlrany', 'radioamator sorszama': '11', 'azonosito': 3011, 'nap': 3, 'uzenet szovege': '2/3###ssz#sz#l#rany miatt c#ak#ro##d i###g$####$$#$##$$##$$#$$$$##$#$$$$$$$$$#$$##$#$#$##$'}
+78:{'megfigyelt': 'a', 'radioamator sorszama': '12', 'azonosito': 5012, 'nap': 5, 'uzenet szovege': 'a #ataknal ##rkasok#n####el#nt##z##k#ny#m## vo##ak$#$#$$$$##$$$#$#$$$#$$$$$$$$$$$$#$#$#$##'}
+79:{'megfigyelt': '/3oetes', 'radioamator sorszama': '4', 'azonosito': 7004, 'nap': 7, 'uzenet szovege': '#/3##o#ete##s #lo#t tu#te# #e# #z e### szel###$#$$$###$$$$$#$$#$$$##$$$$#$$$###$#$$$#$#$$#'}
+80:{'megfigyelt': 'oviha', 'radioamator sorszama': '4', 'azonosito': 4004, 'nap': 4, 'uzenet szovege': '#oviha# mia#t ne##vo## meg##g#e#es##endberakt###a fe###erele#t$$$$##$#$#$$$##$#$#$$$$$##$$'}
+81:{'megfigyelt': '1/0', 'radioamator sorszama': '3', 'azonosito': 2003, 'nap': 2, 'uzenet szovege': '1/0 ##y domb##l##igyeltuk###i###ho akada#yoz$$#$##$$$$$#$$$$##$######$$$$$##$#$#$$$$$#$$#$'}
+82:{'megfigyelt': 'tbrt', 'radioamator sorszama': '14', 'azonosito': 1014, 'nap': 1, 'uzenet szovege': 't#b#rt v#rtunk nagy sz#l 20 fok hid## far#a##yom##a# #a#tun# e#y#pataknal##$$#$$$$$$#$#$$$'}
+83:{'megfigyelt': 'hvar', 'radioamator sorszama': '2', 'azonosito': 4002, 'nap': 4, 'uzenet szovege': 'h#v##ar #iatt ne# #olt #egfigyel## r#n#beraktuk a#felszerelest$$$$$$$$$##$$$####$$$##$$#$#'}
+84:{'megfigyelt': 'aptakl', 'radioamator sorszama': '4', 'azonosito': 5004, 'nap': 5, 'uzenet szovege': 'a#p#tak##l far#asok##e# ####ntke###k n#om####olt##$$$$$#$#$$####$#$$#$###$$#$#$$$$$$$#$$#$'}
+85:{'megfigyelt': '13/0', 'radioamator sorszama': '12', 'azonosito': 11012, 'nap': 11, 'uzenet szovege': '13/0 s#tete#e# #l####eg####es##fa#k# halad##ve#i# # #atak me#te#$$$#$#$$$$#$$$##$$##$$#$$#'}
+86:{'megfigyelt': '2/', 'radioamator sorszama': '9', 'azonosito': 3009, 'nap': 3, 'uzenet szovege': '2/# #o#sz sze#i#a## #ia## csak ro#id###e##$$$###$$$$#$$#$#$$$$$##$####$$##$#$$$#$#$#$##$$#'}
+87:{'megfigyelt': '2/3oszeliray', 'radioamator sorszama': '13', 'azonosito': 3013, 'nap': 3, 'uzenet szovege': '2/3##o#s###zelira#y m##tt c#a###o##d #d#ig#$$$#$$$$##$$##$$##$$$$$$####$####$$#$$###$$$$$$'}
+88:{'megfigyelt': 'a', 'radioamator sorszama': '13', 'azonosito': 5013, 'nap': 5, 'uzenet szovege': 'a p#ta#na# fa#kas#k #e# ##le#tk##t###nyo##k volt#k$$#$#$#$$$$#$#$$$$#$$$$###$$$$$##$$#$#$$'}
+89:{'megfigyelt': '2/3ossz', 'radioamator sorszama': '4', 'azonosito': 3004, 'nap': 3, 'uzenet szovege': '2/3##ossz s#e#i#any miat# ###k rovid #d##g$$#$$$#$#$$$$$$$$$$$$$$$##$#$##$$##$$$###$###$$#'}
+90:{'megfigyelt': '', 'radioamator sorszama': '6', 'azonosito': 5006, 'nap': 5, 'uzenet szovege': '# ##tak#a# #arka##k n#m #elen####tek##yomo##v#l#ak$$#$$$$$$$#$$######$##$#$##$$$$#$$$$#$#$'}
+91:{'megfigyelt': 'vrofenysnapfeyhuo', 'radioamator sorszama': '3', 'azonosito': 8003, 'nap': 8, 'uzenet szovege': 'v#rofeny#s#napfe#y####hu#o i#o##$$$$$$$##$#$#$#$$#$$$$$###$#$$$$$$$#$##$##$$#$##$$###$$$#$'}
+92:{'megfigyelt': 'oiha', 'radioamator sorszama': '5', 'azonosito': 4005, 'nap': 4, 'uzenet szovege': '#o#iha# m###t ##m#v#l####gf##ye#es ren#be#aktuk a fels##rel#st$#$#$$##$#$#$###$#$$##$$$#$#'}
+93:{'megfigyelt': 'skrol', 'radioamator sorszama': '2', 'azonosito': 10002, 'nap': 10, 'uzenet szovege': '#s##krol gya##ri fa#ka###o##e# hallatsz#k$##$$$#$$$$$$$$$#$$#$#$##$$$$#$$$#$$#$#$$##$#$$$$'}
+94:{'megfigyelt': 'vroe', 'radioamator sorszama': '14', 'azonosito': 8014, 'nap': 8, 'uzenet szovege': 'v#ro#e#### n#pfe#y enyh### #do#$#$$###$$#$$$$$$$#$$$$$$$#$#$$$$$$$#$$$#$$$##$$#$$###$$#$#$'}
+95:{'megfigyelt': '1/', 'radioamator sorszama': '3', 'azonosito': 7003, 'nap': 7, 'uzenet szovege': '1/# ##te##d#s##l### t#nt#k##el### e### szelen#$$$#$$#$$#$#$$$###$$#$$##$$$$#$$$$$$#$$$##$$'}
+96:{'megfigyelt': 'a', 'radioamator sorszama': '1', 'azonosito': 6001, 'nap': 6, 'uzenet szovege': '####a pa#a#on tul# do#bon#ko###ok #atszotta# del #o###$$#$#$$###$$$##$$$$$$#$##$$$###$$##$'}
+97:{'megfigyelt': 'erofnyspfey', 'radioamator sorszama': '16', 'azonosito': 8016, 'nap': 8, 'uzenet szovege': '#erof#ny#s###pfe#y ##y#u#o id#$$$##$#$$$##$$$$$#$#$$$$$$$$$$###$$$$$$#$#$$##$#$$$$$#$$#$##'}
+98:{'megfigyelt': '/0', 'radioamator sorszama': '4', 'azonosito': 9004, 'nap': 9, 'uzenet szovege': '#/0 csak## nos##ny ##lent me# del #o#u#$$$##$$##$$#$$$$$$$$$$$$$$$$$$##$#$$$$$$$$$$##$#$#$'}
+99:{'megfigyelt': 'vrofenysaeny', 'radioamator sorszama': '2', 'azonosito': 8002, 'nap': 8, 'uzenet szovege': 'v#rofeny#s##a##eny e#y#u#o#i#o$$#$$$$$$#$$$$$###$$$$$$#$$$#$$#$$##$#$$$$$$##$$#####$$#$$$$'}
+100:{'megfigyelt': '10', 'radioamator sorszama': '6', 'azonosito': 2006, 'nap': 2, 'uzenet szovege': '1#0 egy #om#rol fig##ltuk f#iss ho akadaly#z#$$$$###$$####$#$###$$##$#$$$$$$$$$#$$$$$$$##$'}
+101:{'megfigyelt': 'rt', 'radioamator sorszama': '3', 'azonosito': 1003, 'nap': 1, 'uzenet szovege': '####rt #ert##k#nagy#sze#### fo# h##eg####kasnyomoka##l#t#u###e####a#a##al$$$$$$$#$##$#$#$$'}
+102:{'megfigyelt': '2', 'radioamator sorszama': '17', 'azonosito': 3017, 'nap': 3, 'uzenet szovege': '2## ro#sz szel##any#miatt##sa##r#vid#ide#g#####$#$$#$$$$$$$$####$#$$$$$$$##$$$#$$$$$$#$$$$'}
+103:{'megfigyelt': '1/0', 'radioamator sorszama': '15', 'azonosito': 2015, 'nap': 2, 'uzenet szovege': '1/0 #gy#domb##l fig###tu# f#i#s ho#a##dalyoz$$$$##$$##$#$$#$$#$#$$##$$#$$#$$$$#$$$$#$$$$#$'}
+104:{'megfigyelt': 'ovihar', 'radioamator sorszama': '12', 'azonosito': 4012, 'nap': 4, 'uzenet szovege': '#ovihar m#a#t nem ###t megf##y#les#re#d#eraktuk ##fels###elest$$$#$#$$$##$$$##$##$$#$#$$##'}
+105:{'megfigyelt': 'ana', 'radioamator sorszama': '3', 'azonosito': 5003, 'nap': 5, 'uzenet szovege': 'a######na# f#rka### n## #elen#kez#ek ##om#k vo#tak#$$#$$$$$$$$$$$#$$#$#$#$$$#$$$$#$##$$$$#'}
+106:{'megfigyelt': '13/0tedselotegyegeszkahaladt', 'radioamator sorszama': '18', 'azonosito': 11018, 'nap': 11, 'uzenet szovege': '13/0###t##ed#s#elot##egy#egesz####ka#haladt vegig#a#pa#####enten$$###$$$$##$$$$$$$$#$$$$$$'}
+107:{'megfigyelt': '03aatakon', 'radioamator sorszama': '12', 'azonosito': 6012, 'nap': 6, 'uzenet szovege': '0#3#a##atakon #ul# ##m#o###o#yk#k ja####tt#k##e####r#l##$$##$$#$#$#$$$$#$$$$$$#$#$##$$$$#$'}
+108:{'megfigyelt': 'tabortvertnk', 'radioamator sorszama': '17', 'azonosito': 1017, 'nap': 1, 'uzenet szovege': 'tabort#vert#nk nagy #zel 20 f#k hi#e# far#a#n##mo#at #attu#k#### pa#aknal###$$#$$$$$$$$$##'}
+109:{'megfigyelt': 'hoar', 'radioamator sorszama': '6', 'azonosito': 4006, 'nap': 4, 'uzenet szovege': 'ho###ar #iat##nem #olt#me###g##les#rendb#ra#t#k a fe#sz#r##est##$$$#$#$#$$$$#$###$$$$#$#$$'}
+110:{'megfigyelt': 'taotveunk', 'radioamator sorszama': '6', 'azonosito': 1006, 'nap': 1, 'uzenet szovege': 'ta#o#t#ve##unk na#y#szel 20 #ok #id#g #a#k##nyomoka##la#tu## e#y ##ta#nal$$$#$##$#$$$$$$$#'}
+111:{'megfigyelt': 'rofs', 'radioamator sorszama': '4', 'azonosito': 8004, 'nap': 8, 'uzenet szovege': '##rof####s na#f### en#hul# ###$$##$##$#$#$$$$#$$#$###$$#$$#$#$##$$$$$#$##$$$##$$$$$#$#$$##'}
+112:{'megfigyelt': '3rossz', 'radioamator sorszama': '6', 'azonosito': 3006, 'nap': 3, 'uzenet szovege': '##3#rossz s#eli##ny#m#a#t#cs###r#v#d #d####$$$#$$$$#$#$#$########$#$$#$###$$$#$#$#$#####$$'}
+113:{'megfigyelt': '/0', 'radioamator sorszama': '1', 'azonosito': 2001, 'nap': 2, 'uzenet szovege': '#/0 #gy dom##ol fi####tuk####s# ###aka#a#yoz##$$#$##$$##$$##$$#$$$$$##$$#$$$#$$$$$$$$$####'}
+114:{'megfigyelt': 'veofnys', 'radioamator sorszama': '1', 'azonosito': 8001, 'nap': 8, 'uzenet szovege': 've#of#ny#s #apf#ny eny#ulo #do$$$$$$#$$$$#$$###$$$$##$$$$$$$$##$#$$#$$$$$$$$$$#$#$$#$$$#$$'}
+115:{'megfigyelt': '0', 'radioamator sorszama': '14', 'azonosito': 11014, 'nap': 11, 'uzenet szovege': '###0 sotet##e# ##ot# eg# eg#s##fa#ka h##adt v#### a pa##k###n###$#$#$#$$$$#$$###$$$$$#$$#$'}
+116:{'megfigyelt': '13/', 'radioamator sorszama': '11', 'azonosito': 11011, 'nap': 11, 'uzenet szovege': '13/# ######d#s ###t# #g# egesz#f#lka hal#d####gig # pa#a##me####$$$####$$$$$$$#$$$#$$#$#$#'}
+117:{'megfigyelt': 'esakrolgykor', 'radioamator sorszama': '15', 'azonosito': 10015, 'nap': 10, 'uzenet szovege': 'es#akrol#gy#kor# fark##uv##tes#ha###tsz#k#$$$$#$$$##$#$$#$$#$$$#$$$#$#$#$$$$$$#$#$$$$#$$$#'}
+118:{'megfigyelt': '/', 'radioamator sorszama': '14', 'azonosito': 7014, 'nap': 7, 'uzenet szovege': '#/# sotete####el#tt t##tek #el #z #rd##s#elen$$##$#$###$$$$$$####$#$##$#$#$##$$#$$##$$$$$#'}
+119:{'megfigyelt': '3', 'radioamator sorszama': '11', 'azonosito': 6011, 'nap': 6, 'uzenet szovege': '##3 # #atakon##uli ##mb#n k#l###k ja#sz#t#ak d#l ko#ul$$$#$#$$$#$#$##$$$$$$$#$#$$####$$#$$'}
+120:{'megfigyelt': '1/', 'radioamator sorszama': '15', 'azonosito': 9015, 'nap': 9, 'uzenet szovege': '1/# csa# a#nost#ny#j##e###me# del##oru###$#$$##$$#$$$$$$$$###$$$#$#$$#$$$#$$$#$$##$$$$$$##'}
+121:{'megfigyelt': '130otetdeslottg', 'radioamator sorszama': '4', 'azonosito': 11004, 'nap': 11, 'uzenet szovege': '13#0##otet#des##lott##g# e#e## #al#a hal#dt###gi# a patak ###ten$$$$$###$$$$$###$$$$$$#$$$'}
+122:{'megfigyelt': '1/0soet', 'radioamator sorszama': '16', 'azonosito': 11016, 'nap': 11, 'uzenet szovege': '1#/0#so#et#### e#o#t egy egesz#falka #a#adt v#gig## ##ta# me#te##$##$$##$$#$$#$$$$$###$$$#'}
+123:{'megfigyelt': 'szakrol', 'radioamator sorszama': '18', 'azonosito': 10018, 'nap': 10, 'uzenet szovege': '#szakrol ##akori#fa#kas#v##tes #all#t##ik$$##$#$$$$$$$#$##$$$#$$$$$$$$##$#$$$##$#$$$#$##$$'}
+124:{'megfigyelt': '13/0stetes', 'radioamator sorszama': '13', 'azonosito': 11013, 'nap': 11, 'uzenet szovege': '13/0#s#tete##s elot# egy###esz #alka###l#dt ve##g a pata# men#en##$####$$$$$$#$$$####$#$$$'}
+125:{'megfigyelt': 'ovihariatt', 'radioamator sorszama': '15', 'azonosito': 4015, 'nap': 4, 'uzenet szovege': '#ovihar##iatt nem v##t m#g#igy#l## #e#dbe#akt## a f#lsze#e#est$###$$#$$###$$$$$$#$$$$$$$$#'}
+126:{'megfigyelt': '1/', 'radioamator sorszama': '10', 'azonosito': 2010, 'nap': 2, 'uzenet szovege': '1/# egy do#bro# #igy#l#uk friss h#####d#l###$$$$##$$$$$$$$####$###$#$$$#$$##$#$$$$###$$$$#'}
+127:{'megfigyelt': 'tabort', 'radioamator sorszama': '12', 'azonosito': 1012, 'nap': 1, 'uzenet szovege': 'tabort ve#tunk #a## #z#l 2# ##k###d#g #ar##s#y#mo#a###a###nk egy p##a#n##$#$$#$$#$$#$$$$$$'}
+128:{'megfigyelt': 'vroenyes', 'radioamator sorszama': '17', 'azonosito': 8017, 'nap': 8, 'uzenet szovege': 'v#ro#enyes ####eny#e#yh##o ido$$$$#$$$$$$#$$#$###$$$#$$$$$$$$$$#$$$$#$###$$$#$#$$#$$$$#$$#'}
+129:{'megfigyelt': '0/3', 'radioamator sorszama': '17', 'azonosito': 6017, 'nap': 6, 'uzenet szovege': '0/3 # pat#ko# #ul##d#mbon#kolyk## j##s#o##a##de# #oru#$$$######$$$$$#$$$##$$$$$#$$$$##$$$$'}
+130:{'megfigyelt': '/0', 'radioamator sorszama': '3', 'azonosito': 9003, 'nap': 9, 'uzenet szovege': '#/0 cs#####n#st#n# j#le####eg d#l #orul#$##$$$$$##$$$$######$$$$#$$#$$$$##$$#$#$$$$$$$$$$$'}
+131:{'megfigyelt': '/rossszery', 'radioamator sorszama': '2', 'azonosito': 3002, 'nap': 3, 'uzenet szovege': '#/##ross##sze##r##y ###tt #sak#ro#i# i#eig##$$#$##$$$$#$$$$$#$$###$#$$#$$$$##$$#$$###$#$#$'}
+132:{'megfigyelt': 'ezkrl', 'radioamator sorszama': '7', 'azonosito': 10007, 'nap': 10, 'uzenet szovege': 'e#z#kr#l gyakor# fark#s##o###s #allats###$#$$###$$$##$$$$$$$$###$$$#$#$$##$$$$$##$$$$$$$##'}
+133:{'megfigyelt': 'varmit', 'radioamator sorszama': '13', 'azonosito': 4013, 'nap': 4, 'uzenet szovege': '##v##ar#mi##t n###v#lt meg##gyel#s ren#b####tuk # f#l#zer##est$$$#$$###$$$#$$$#$$###$$$$$$'}
+134:{'megfigyelt': 'verofenyes', 'radioamator sorszama': '19', 'azonosito': 8019, 'nap': 8, 'uzenet szovege': 'verofenyes n#pf##y eny#u#o i###$$##$$$$$$#$$$$$##$$$$#$###$$#$$##$$$$$#$$$#$$$$##$$$###$$$'}
+135:{'megfigyelt': '1/', 'radioamator sorszama': '13', 'azonosito': 7013, 'nap': 7, 'uzenet szovege': '1/# s##e#ed#s #l#t#####te# fel #z#e### #zel#n$$$$$$$$$$$$$$#$$#$$$$$$$$$$$$##$$$##$##$$$#$'}
+136:{'megfigyelt': '0/a', 'radioamator sorszama': '18', 'azonosito': 6018, 'nap': 6, 'uzenet szovege': '0/##a #ata##n tu#i ##m##n koly##k jatszo#ta# del kor##$$$$$#$$$$$$#$$$$$$$$#$$$$#$#$######'}
+137:{'megfigyelt': 'aaknl', 'radioamator sorszama': '15', 'azonosito': 5015, 'nap': 5, 'uzenet szovege': 'a##a##kn#l farkasok #em jel##tkez#e#####mok ##ltak$##$$###$$$$$#$$$#$$#$$$$$$$$$$##$##$$##'}
+138:{'megfigyelt': 'bt', 'radioamator sorszama': '18', 'azonosito': 1018, 'nap': 1, 'uzenet szovege': '##b##t #er#unk nagy#s#e###0 fo# ##d## ##rk#s###m#ka# ##ttu## e#y#pata#nal#$$#$#$#$$$##$$$$'}
+139:{'megfigyelt': 'a', 'radioamator sorszama': '5', 'azonosito': 5005, 'nap': 5, 'uzenet szovege': 'a #at#k####fa#ka#o###em je#entke#te# n#om#k ##l####$$$$$$$$$#$$$#$$$$$#$$#$#$$$$#$##$##$##'}
+140:{'megfigyelt': '1/0', 'radioamator sorszama': '17', 'azonosito': 11017, 'nap': 11, 'uzenet szovege': '1#/0 s#t##ede####o#t#eg##e#es##falka h##adt####ig#a #atak me#t#n$#$$$$##$#$##$$$$$#$#$$#$$'}
+141:{'megfigyelt': '3rosz', 'radioamator sorszama': '16', 'azonosito': 3016, 'nap': 3, 'uzenet szovege': '##3#ro#sz s##lir#ny #iatt #sak#rov#d#id##g$#$$$$$$$#$#####$$#$$##$$$$$$$#$##$#$$$#$$$$#$$#'}
+142:{'megfigyelt': 'oi', 'radioamator sorszama': '7', 'azonosito': 4007, 'nap': 4, 'uzenet szovege': '#o#i### #ia#t#nem v#l# me#f#gyeles re##berak#uk # f#l##e###est$$$#$#$$$$$$#$$$$##$$$$##$$$'}
+143:{'megfigyelt': '0/3', 'radioamator sorszama': '9', 'azonosito': 6009, 'nap': 6, 'uzenet szovege': '0/3 a pat#kon tu#i#d#m#o##kolykok##atszot#ak del##orul#$##$#$$###$$$$$$$#$$$#$#$###$$#$##$'}
+144:{'megfigyelt': 'hovihamtnm', 'radioamator sorszama': '1', 'azonosito': 4001, 'nap': 4, 'uzenet szovege': 'hoviha##m##t##n#m v####megfi#y#les rendberak#uk a####sze#el####$#$$$##$$$##$$$$#$$$$#$$$$$'}
+145:{'megfigyelt': 'hovihr', 'radioamator sorszama': '3', 'azonosito': 4003, 'nap': 4, 'uzenet szovege': 'hovih#r m#att nem vo## m##figy#l#s r#ndberak#uk a##el#ze##l##t$$$$$#$$$$$#$#$#$$$#$#$$$##$'}
+146:{'megfigyelt': '1/0', 'radioamator sorszama': '14', 'azonosito': 9014, 'nap': 9, 'uzenet szovege': '1/0 csak a#n#steny jel#nt ### del ko###$##$##$$#$$$$$$#$$$$$##$$#$$#$#$#$$##$$$$$$$$#$###$'}
+147:{'megfigyelt': '1/csaanoy', 'radioamator sorszama': '2', 'azonosito': 9002, 'nap': 9, 'uzenet szovege': '1/##csa##a#no####y je#ent#m#g d#l#ko#ul#$$#$$###$#$#####$##$#$###$$#$#$$##$$$$$$$#$$$$###$'}
+148:{'megfigyelt': 'zogori', 'radioamator sorszama': '19', 'azonosito': 10019, 'nap': 10, 'uzenet szovege': '##z###o##g###ori fa#ka#uvolte# #allats#i#$$$#$#$#$##$$$#$#$##$#$$$$$#$#$$$$$$$$#$$$$$$#$$$'}
+149:{'megfigyelt': 'ab', 'radioamator sorszama': '8', 'azonosito': 1008, 'nap': 1, 'uzenet szovege': '#ab### v#rt#n# nag# s#el#20##ok h###g#f##kas#yomoka# l#tt### e## p##akn##$#$#$##$$$$$$#$$$'}
+150:{'megfigyelt': 'taorvetnk', 'radioamator sorszama': '4', 'azonosito': 1004, 'nap': 1, 'uzenet szovege': 'ta#or##ve#t#nk #agy#szel 20 #ok#h#deg f#r#a#ny#m#k#t l#tt#nk##gy#pataknal$$#$$##$$#$$$$#$$'}
+151:{'megfigyelt': '13/', 'radioamator sorszama': '8', 'azonosito': 11008, 'nap': 11, 'uzenet szovege': '13/# s##et#### ###tt eg# egesz fal#a hal#d# v#####a patak mente#$######$####$#$$$###$$$$#$'}
+152:{'megfigyelt': '23', 'radioamator sorszama': '19', 'azonosito': 3019, 'nap': 3, 'uzenet szovege': '2#3 ####z#szeliran##miatt #s## ##vid idei##$#$$$#$$#$#$$#$##$$$$$$#$$$$#$##$$#$$$$$$$$$#$$'}
+153:{'megfigyelt': 'hoviri', 'radioamator sorszama': '18', 'azonosito': 4018, 'nap': 4, 'uzenet szovege': 'hovi##r##i### ##m vo#t#meg##gy#les rend##r#ktuk#a fe#s####lest$#$$###$$$$#$$#$###$###$$#$$'}
